@@ -1,0 +1,4 @@
+﻿  CS215_IP1.cpp
+c:\users\czieg\source\repos\cs215_ip1\cs215_ip1\cs215_ip1.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\czieg\source\repos\cs215_ip1\cs215_ip1\cs215_ip1.cpp(69): warning C4018: '<': signed/unsigned mismatch
+  CS215_IP1.vcxproj -> C:\Users\czieg\source\repos\CS215_IP1\Debug\CS215_IP1.exe

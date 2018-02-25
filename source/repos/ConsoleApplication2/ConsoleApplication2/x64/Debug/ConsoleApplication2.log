@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  CS115_Lab1.cpp
+  ConsoleApplication2.vcxproj -> C:\Users\czieg\source\repos\ConsoleApplication2\x64\Debug\CSS115.exe
